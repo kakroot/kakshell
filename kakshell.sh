@@ -7,16 +7,14 @@ clear
  
 printf "\e[1;92m########################################\e[0m\n"
 printf "\e[1;92m#   this tools creat by kakshell       # \e[0m\n"           
-printf "\e[1;92m#       follow my instagram            # \e[0m\n"
-printf "\e[1;91m#           @sh4hm                     # \e[0m\n"
+printf "\e[1;92m#       add my snapchat                # \e[0m\n"
+printf "\e[1;91m#           @sh4hom                     # \e[0m\n"
 printf "\e[1;92m#                                      # \e[0m\n"
 printf "\e[1;92m######################################## \e[0m\n"
 sleep 3
 pkg update -y
 clear
 pkg upgrade -y
-xdg-open https://www.instagram.com/shahokurdsh
-
 sleep 10
 
 echo "       sh4hom  "
@@ -247,8 +245,8 @@ sleep 10
 
 pkg install php -y
 printf "\e[1;94m########################################\e[0m\n"
-printf "\e[1;94m#   this tools Great by kakshell       # \e[0m\n"           
-printf "\e[1;4m#       follow my instagram            # \e[0m\n"
+printf "\e[1;94m#   this tools G by kakshell       # \e[0m\n"           
+printf "\e[1;4m#       add  my   snapchat           # \e[0m\n"
 printf "\e[1;94m#           @sh4hm                     # \e[0m\n"
 printf "\e[1;94m#                                      # \e[0m\n"
 printf "\e[1;94m######################################## \e[0m\n"
